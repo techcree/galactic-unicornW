@@ -1,0 +1,2 @@
+#example
+settext = 'Stephan fgsdfgsdfsdfsdfsdfsdfsdf'
